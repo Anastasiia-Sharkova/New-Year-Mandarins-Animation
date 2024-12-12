@@ -2,6 +2,9 @@
 
 Welcome to **New Year Mandarins Animation**, a playful web project to spread some holiday cheer! Grow mandarins on click and enjoy a gentle snowfall background.
 
+## ✨ Demo
+[Webpage](https://anastasiia-sharkova.github.io/New-Year-Mandarins-Animation)
+
 ---
 
 ## 🌟 Features
