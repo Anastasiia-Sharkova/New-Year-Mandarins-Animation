@@ -1,2 +1,21 @@
-# New-Year-Mandarins-Animation
-A fun and interactive New Year's animation where you can grow mandarins on click! Watch snow gently fall in the background while you create an unlimited number of cheerful oranges with random angles, stems, and leaves. Perfect for bringing New Year cheer to your web pages. 🍊❄️
+# 🎉 New Year Mandarins Animation 🍊❄️
+
+Welcome to **New Year Mandarins Animation**, a playful web project to spread some holiday cheer! Grow mandarins on click and enjoy a gentle snowfall background.
+
+---
+
+## 🌟 Features
+
+- **Interactive Mandarins**: Click anywhere on the screen to grow mandarins with random angles and styles.
+- **Falling Snow**: A soft snowfall animation sets the holiday mood.
+- **Holiday Greetings**: Animated New Year's messages to brighten your day.
+
+---
+
+## 📂 Project Structure
+
+- `index.html` - The main HTML file containing the interactive animation.
+- `style.css` - Styling and logic for the animation.
+- `script.js` - Logic for the animation.
+
+---
